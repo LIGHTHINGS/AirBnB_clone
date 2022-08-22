@@ -61,6 +61,7 @@ h4{
 
 ul{
     list-style-type: none;
+    cursor: pointer;
 }
 
 ul.popover {
